@@ -52,12 +52,6 @@ You can check with:
 python --version
 ```
 
-1. Creating a Virtual Environment
-
-To create a virtual environment, run the following command in your terminal (for macOS/Linux) or command prompt (for Windows):
-```
-python3 -m venv venv
-```
 This command creates a directory named `venv` in your current directory, which will contain the Python executable files, and a copy of the pip library which can be used to install other packages.
 
 2. Activating the Virtual Environment
