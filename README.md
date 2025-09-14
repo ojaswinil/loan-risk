@@ -46,11 +46,6 @@ To create a virtual environment **with Python 3.13.5**, run:
   ```bash
   py -3.13 -m venv venv
   ```
-Before creating the environment, make sure you have **Python 3.13.5** installed.  
-You can check with:
-```
-python --version
-```
 
 This command creates a directory named `venv` in your current directory, which will contain the Python executable files, and a copy of the pip library which can be used to install other packages.
 
