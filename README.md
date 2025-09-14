@@ -6,7 +6,7 @@ This project aims to build machine learning models that can predict the likeliho
 
 We use Slack as our main communication hub. Join the **Loan Risk Prediction F25** Slack workspace to ask questions, share updates, and collaborate with teammates throughout the project. It’s the best place to get help if you’re stuck, stay updated on meeting times, and connect with other members working on the project.  
 
-👉 [Join the Slack here](YOUR_INVITE_LINK)  
+👉 [Join the Slack here](https://umich.enterprise.slack.com/archives/C099CP17G5N)  
 
 ## Virtual Environments
 The notebooks have requirements (described in `requirements.txt`) such as the openai library, regex, and pandas. A Python best practice for downloading packages necessary for your code is using **virtual environments**.
