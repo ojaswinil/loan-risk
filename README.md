@@ -12,6 +12,46 @@ Virtual environments allow you to manage dependencies for different projects sep
 There are multiple ways to use virtual environments in Python, including through the use of Anaconda or the built-in venv module. Here, we focus on the venv module, which is included in the Python Standard Library.
 
 ### Using venv
+Before creating the environment, make sure you have **Python 3.13.5** installed.  
+You can check with:
+```
+python --version
+```
+
+If you don’t already have Python 3.13.5:
+
+- **macOS/Linux (recommended with pyenv):**
+  ```bash
+  pyenv install 3.13.5
+  pyenv local 3.13.5
+  ```
+
+- **Windows:**
+  Download the official 3.13.5 installer from [python.org](https://www.python.org/downloads/release/python-3135/) and install it.  
+  Then check:
+  ```bash
+  py -3.13 --version
+  ```
+
+1. Creating a Virtual Environment
+
+To create a virtual environment **with Python 3.13.5**, run:
+
+- macOS/Linux:
+  ```bash
+  python3.13 -m venv venv
+  ```
+
+- Windows:
+  ```bash
+  py -3.13 -m venv venv
+  ```
+Before creating the environment, make sure you have **Python 3.13.5** installed.  
+You can check with:
+```
+python --version
+```
+
 1. Creating a Virtual Environment
 
 To create a virtual environment, run the following command in your terminal (for macOS/Linux) or command prompt (for Windows):
