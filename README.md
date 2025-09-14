@@ -4,7 +4,7 @@ This project aims to build machine learning models that can predict the likeliho
 
 ## Slack  
 
-We use Slack as our main communication hub. Join the **Loan Risk Prediction 24** Slack workspace to ask questions, share updates, and collaborate with teammates throughout the project. It’s the best place to get help if you’re stuck, stay updated on meeting times, and connect with other members working on the project.  
+We use Slack as our main communication hub. Join the **Loan Risk Prediction F25** Slack workspace to ask questions, share updates, and collaborate with teammates throughout the project. It’s the best place to get help if you’re stuck, stay updated on meeting times, and connect with other members working on the project.  
 
 👉 [Join the Slack here](YOUR_INVITE_LINK)  
 
