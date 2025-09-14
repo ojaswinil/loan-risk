@@ -2,13 +2,13 @@
 This project aims to build machine learning models that can predict the likelihood of a borrower defaulting on a loan. Using a dataset of borrower information and loan attributes, we explore data preprocessing, feature engineering, and model training (with logistic regression as a baseline). The end goal is to evaluate model performance using metrics such as ROC curves and precision, and provide a foundation for more advanced approaches in credit risk modeling.
 
 
-# Slack  
+## Slack  
 
 We use Slack as our main communication hub. Join the **Loan Risk Prediction 24** Slack workspace to ask questions, share updates, and collaborate with teammates throughout the project. It’s the best place to get help if you’re stuck, stay updated on meeting times, and connect with other members working on the project.  
 
 👉 [Join the Slack here](YOUR_INVITE_LINK)  
 
-# Virtual Environments
+## Virtual Environments
 The notebooks have requirements (described in `requirements.txt`) such as the openai library, regex, and pandas. A Python best practice for downloading packages necessary for your code is using **virtual environments**.
 
 ## Why Use Virtual Environments?
