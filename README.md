@@ -1,5 +1,5 @@
 # Loan-Risk-Prediction
-
+This project aims to build machine learning models that can predict the likelihood of a borrower defaulting on a loan. Using a dataset of borrower information and loan attributes, we explore data preprocessing, feature engineering, and model training (with logistic regression as a baseline). The end goal is to evaluate model performance using metrics such as ROC curves and precision, and provide a foundation for more advanced approaches in credit risk modeling.
 
 
 # Virtual Environments
